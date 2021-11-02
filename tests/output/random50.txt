@@ -1,0 +1,105 @@
+There are  50 elements in container
+1. "ufcQc7leKC xu", Hash=90; Count of replacements:  8 ; Symbols:  m <-> 72 h <-> 180 5 <-> 103 7 <-> 189 s <-> 92 K <-> 221 G <-> 120 p <-> 115  ; Result:  [ 117 102 99 81 99 189 108 101 221 67 32 120 117 ]
+2. "hd7", Hash=86; ReplaceShift: 13; Result: "/"
+3. "56ha6lFv8aTJo1", Hash=81; ReplaceShift: 15; Result: ".66-8>*="
+4. "tiPhrMrsHUIA", Hash=93; Count of replacements:  14 ; Symbols:  r <-> q 5 <-> x 8 <-> v G <-> E M <-> k W <-> K s <-> 9 O <-> J U <-> U I <-> t J <-> W F <-> l d <-> o X <-> p  ; Result:  tiPhqkq9HUtA
+5. "6", Hash=54; ReplaceShift: 18; Result: "6"
+6. "4jHO", Hash=77; Count of replacements:  12 ; Symbols:  P <-> 90 o <-> 87 J <-> 241 1 <-> 42 M <-> 173 w <-> 110 b <-> 81 4 <-> 101 I <-> 89 q <-> 115 z <-> 159 Z <-> 131  ; Result:  [ 101 106 72 79 ]
+7. "f1QAIlZwDjJ6", Hash=82; ReplaceShift: 20; Result: "$6-.,"
+8. "qIw 90Whwx", Hash=87; Count of replacements:  12 ; Symbols:  j <-> 85 B <-> 234 z <-> 84 Y <-> 223 T <-> 120 n <-> 42 t <-> 166 r <-> 48 p <-> 183 8 <-> 65 V <-> 68 w <-> 184  ; Result:  [ 113 73 184 32 57 48 87 104 184 120 ]
+9. "Y aiuFshk", Hash=93; Count of replacements:  8 ; Symbols:  x <-> 243 S <-> 150 N <-> 98 0 <-> 99 P <-> 209 1 <-> 83 D <-> 17 j <-> 163  ; Result:  [ 89 32 97 105 117 70 115 104 107 ]
+10. "mrhuWRc Wu2", Hash=91; ReplaceShift: 11; Result: "694:+)1+:"
+11. "", Hash=0; Count of replacements:  4 ; Symbols:  k <-> 160 i <-> 150 N <-> 147 r <-> 41  ; Result:  [  ]
+12. "", Hash=0; Count of replacements:  13 ; Symbols:  H <-> 187 P <-> 103 L <-> 215 I <-> 63 3 <-> 136 o <-> 207 V <-> 216 6 <-> 36 O <-> 171 U <-> 98 r <-> 169 Y <-> 190 Q <-> 157  ; Result:  [  ]
+13. "UnsuP6", Hash=94; ReplaceShift: 0; Result: "/356"
+14. "Za1KvAjzSxr0EP", Hash=88; Count of replacements:  5 ; Symbols:  2 <-> X T <-> Y x <-> C l <-> p F <-> z  ; Result:  Za1KvAjzSCr0EP
+15. "ubZok", Hash=105; ReplaceShift: 18; Result: "5#/+"
+16. "yBfoQB74", Hash=82; Count of replacements:  13 ; Symbols:  C <-> 190 4 <-> 161 r <-> 80 I <-> 141 s <-> 34 D <-> 99 B <-> 45 o <-> 173 S <-> 150 p <-> 111 g <-> 133 A <-> 200   <-> 135  ; Result:  [ 121 45 102 173 81 45 55 161 ]
+17. "ZAdjqRAc", Hash=90; Count of replacements:  7 ; Symbols:  F <-> o I <-> y J <-> N 1 <-> H m <-> F x <-> 1 C <-> f  ; Result:  ZAdjqRAc
+18. "ezHSytDmUWnF93vs", Hash=93; Count of replacements:  13 ; Symbols:  0 <-> 9 y <-> y C <-> Y u <-> P 9 <-> z v <-> 0 6 <-> I n <-> m e <-> A i <-> i P <-> E c <-> Z z <-> s  ; Result:  AsHSytDmUWmFz30s
+19. "l", Hash=108; Count of replacements:  1 ; Symbols:  r <-> 61  ; Result:  [ 108 ]
+20. "vPmBZioAfImTwDq", Hash=94; Count of replacements:  10 ; Symbols:  w <-> 74 B <-> 174 r <-> 133 n <-> 201 c <-> 11 9 <-> 111 I <-> 215 y <-> 17 7 <-> 94 E <-> 207  ; Result:  [ 118 80 109 174 90 105 111 65 102 215 109 84 74 68 113 ]
+21. "2XRbYXp0t LzrZczfRB ", Hash=85; Count of replacements:  8 ; Symbols:  t <-> K W <-> i   <-> Y o <-> g e <-> X B <-> f V <-> h q <-> 6  ; Result:  2XRbYXp0KYLzrZczfRfY
+22. "M", Hash=77; ReplaceShift: 1; Result: ""
+23. "Ntwyar", Hash=108; ReplaceShift: 14; Result: "<'"
+24. "D9jFqZ", Hash=84; Count of replacements:  17 ; Symbols:  S <-> 218 6 <-> 160 2 <-> 117 e <-> 195 w <-> 216 V <-> 239 p <-> 74 G <-> 220 F <-> 39 c <-> 105 Y <-> 0 K <-> 27 z <-> 221   <-> 56 Q <-> 222 j <-> 96 f <-> 24  ; Result:  [ 68 57 96 39 113 90 ]
+25. "R X80Z6M", Hash=66; ReplaceShift: 7; Result: "&21!6-"
+26. "CwruiwksJqBzXMhy", Hash=102; Count of replacements:  9 ; Symbols:  m <-> 68 v <-> 12 Z <-> 110 E <-> 243 b <-> 13 P <-> 121 R <-> 32 d <-> 48 j <-> 196  ; Result:  [ 67 119 114 117 105 119 107 115 74 113 66 122 88 77 104 121 ]
+27. "dHKsudEpove0frBPNxk", Hash=95; Count of replacements:  16 ; Symbols:  Q <-> 191 Y <-> 21 H <-> 161 8 <-> 233 Z <-> 166 A <-> 238 5 <-> 246 M <-> 1 7 <-> 9 v <-> 159 3 <-> 220 g <-> 173 s <-> 30 y <-> 126 x <-> 14 z <-> 157  ; Result:  [ 100 161 75 30 117 100 69 112 111 159 101 48 102 114 66 80 78 14 107 ]
+28. "M9Z9PHsYX7d1UbKz", Hash=82; Count of replacements:  0 ; Symbols:    ; Result:  [ 77 57 90 57 80 72 115 89 88 55 100 49 85 98 75 122 ]
+29. "", Hash=0; Count of replacements:  14 ; Symbols:  H <-> 131 B <-> 25 9 <-> 47 D <-> 41 K <-> 97 O <-> 211 b <-> 20 s <-> 9 8 <-> 35 n <-> 60 Q <-> 206 I <-> 217 P <-> 174 k <-> 171  ; Result:  [  ]
+30. "9", Hash=57; ReplaceShift: 17; Result: "<"
+31. "IhKaqIRMjvOu4", Hash=90; ReplaceShift: 2; Result: "$&,$4.<"
+32. "SIyOoazKpWX40", Hash=88; ReplaceShift: 20; Result: "$'<>/,%"
+33. "JkajlhGb", Hash=96; Count of replacements:  20 ; Symbols:  8 <-> 145 j <-> 141 2 <-> 45 w <-> 160 R <-> 5 K <-> 26 q <-> 186 D <-> 20 A <-> 44 B <-> 52 g <-> 215 1 <-> 201 3 <-> 206 y <-> 38 n <-> 181 5 <-> 71 o <-> 173 k <-> 207 O <-> 92 P <-> 7  ; Result:  [ 74 207 97 141 108 104 71 98 ]
+34. "lz7DEOhFuDtRUIZ8Fg", Hash=85; Count of replacements:  6 ; Symbols:  h <-> e 1 <-> y R <-> l w <-> 4   <-> I J <-> c  ; Result:  lz7DEOeFuDtlUIZ8Fg
+35. "PyDjrIJV2G", Hash=84; Count of replacements:  19 ; Symbols:  n <-> r J <-> R m <-> L c <-> Y x <-> B d <-> Q g <-> X D <-> q k <-> d 3 <-> 3 p <-> D S <-> T b <-> P u <-> y t <-> b E <-> c Q <-> j P <-> C U <-> Z  ; Result:  CyqjrIRV2G
+36. "QkrRV7l4s4YO", Hash=85; Count of replacements:  7 ; Symbols:  X <-> 38 L <-> 29 G <-> 49 t <-> 84 i <-> 125 3 <-> 147 A <-> 139  ; Result:  [ 81 107 114 82 86 55 108 52 115 52 89 79 ]
+37. "9gVlaIaj4JTZ", Hash=86; Count of replacements:  6 ; Symbols:  G <-> e J <-> i D <-> B Q <-> v 0 <-> 0 V <-> 2  ; Result:  9g2laIaj4iTZ
+38. "cf f0BWdaWk16", Hash=79; Count of replacements:  4 ; Symbols:  w <-> 8 P <-> u 8 <-> 5 E <-> G  ; Result:  cf f0BWdaWk16
+39. "S1dzAeIyF", Hash=87; ReplaceShift: 11; Result: ")82= 2$<#"
+40. "i", Hash=105; ReplaceShift: 17; Result: "4"
+41. "S", Hash=83; Count of replacements:  19 ; Symbols:  z <-> 133 d <-> 171 S <-> 120 H <-> 60 N <-> 239 Y <-> 83 0 <-> 51 4 <-> 181 3 <-> 57 l <-> 196 t <-> 16 G <-> 201 8 <-> 145 9 <-> 18 Z <-> 3 w <-> 116 T <-> 14 q <-> 17 5 <-> 160  ; Result:  [ 120 ]
+42. "F", Hash=70; Count of replacements:  2 ; Symbols:  8 <-> 177 X <-> 241  ; Result:  [ 70 ]
+43. "OQTFEMdxr664uzh0M ", Hash=81; ReplaceShift: 2; Result: "<4'/&4"
+44. " hyC", Hash=81; Count of replacements:  12 ; Symbols:  U <-> 70 r <-> 179 G <-> 178 p <-> 229 g <-> 95 I <-> 225 A <-> 48 f <-> 53 8 <-> 206 M <-> 182 m <-> 89 a <-> 162  ; Result:  [ 32 104 121 67 ]
+45. "rA9AA2fT2Fes0JALN", Hash=75; Count of replacements:  8 ; Symbols:  i <-> t Z <-> o q <-> r U <-> y T <-> w g <-> a c <-> M K <-> B  ; Result:  rA9AA2fw2Fes0JALN
+46. "XWe8m1OhETORi91q8Y", Hash=81; ReplaceShift: 17; Result: ",+268'4"*')4<88,"
+47. "18ZVgk5AliUaqT", Hash=86; ReplaceShift: 16; Result: "659:"
+48. "HZ3", Hash=71; ReplaceShift: 15; Result: "	"
+49. "VxZI8uRvmKpxYjymuwk", Hash=101; Count of replacements:  16 ; Symbols:  k <-> v U <-> o N <-> P l <-> K w <-> m g <-> j s <-> k v <-> d C <-> 3 o <-> W T <-> I D <-> 6 Q <-> Z 1 <-> G W <-> p b <-> M  ; Result:  VxZI8uRdmKpxYjymumv
+50. "EzwqBQTMp6B28TuW", Hash=85; Count of replacements:  18 ; Symbols:  1 <-> N t <-> w V <-> z q <-> V 9 <-> v i <-> j o <-> d e <-> T c <-> J A <-> 1 p <-> u G <-> 3 h <-> g Y <-> S F <-> 5 X <-> W R <-> k f <-> H  ; Result:  EzwVBQTMu6B28TuW
+
+-----Straight Insertion-----
+
+There are  50 elements in container
+1. "", Hash=0; Count of replacements:  4 ; Symbols:  k <-> 160 i <-> 150 N <-> 147 r <-> 41  ; Result:  [  ]
+2. "", Hash=0; Count of replacements:  13 ; Symbols:  H <-> 187 P <-> 103 L <-> 215 I <-> 63 3 <-> 136 o <-> 207 V <-> 216 6 <-> 36 O <-> 171 U <-> 98 r <-> 169 Y <-> 190 Q <-> 157  ; Result:  [  ]
+3. "", Hash=0; Count of replacements:  14 ; Symbols:  H <-> 131 B <-> 25 9 <-> 47 D <-> 41 K <-> 97 O <-> 211 b <-> 20 s <-> 9 8 <-> 35 n <-> 60 Q <-> 206 I <-> 217 P <-> 174 k <-> 171  ; Result:  [  ]
+4. "6", Hash=54; ReplaceShift: 18; Result: "6"
+5. "9", Hash=57; ReplaceShift: 17; Result: "<"
+6. "R X80Z6M", Hash=66; ReplaceShift: 7; Result: "&21!6-"
+7. "F", Hash=70; Count of replacements:  2 ; Symbols:  8 <-> 177 X <-> 241  ; Result:  [ 70 ]
+8. "HZ3", Hash=71; ReplaceShift: 15; Result: "	"
+9. "rA9AA2fT2Fes0JALN", Hash=75; Count of replacements:  8 ; Symbols:  i <-> t Z <-> o q <-> r U <-> y T <-> w g <-> a c <-> M K <-> B  ; Result:  rA9AA2fw2Fes0JALN
+10. "M", Hash=77; ReplaceShift: 1; Result: ""
+11. "4jHO", Hash=77; Count of replacements:  12 ; Symbols:  P <-> 90 o <-> 87 J <-> 241 1 <-> 42 M <-> 173 w <-> 110 b <-> 81 4 <-> 101 I <-> 89 q <-> 115 z <-> 159 Z <-> 131  ; Result:  [ 101 106 72 79 ]
+12. "cf f0BWdaWk16", Hash=79; Count of replacements:  4 ; Symbols:  w <-> 8 P <-> u 8 <-> 5 E <-> G  ; Result:  cf f0BWdaWk16
+13. "56ha6lFv8aTJo1", Hash=81; ReplaceShift: 15; Result: ".66-8>*="
+14. "OQTFEMdxr664uzh0M ", Hash=81; ReplaceShift: 2; Result: "<4'/&4"
+15. "XWe8m1OhETORi91q8Y", Hash=81; ReplaceShift: 17; Result: ",+268'4"*')4<88,"
+16. " hyC", Hash=81; Count of replacements:  12 ; Symbols:  U <-> 70 r <-> 179 G <-> 178 p <-> 229 g <-> 95 I <-> 225 A <-> 48 f <-> 53 8 <-> 206 M <-> 182 m <-> 89 a <-> 162  ; Result:  [ 32 104 121 67 ]
+17. "yBfoQB74", Hash=82; Count of replacements:  13 ; Symbols:  C <-> 190 4 <-> 161 r <-> 80 I <-> 141 s <-> 34 D <-> 99 B <-> 45 o <-> 173 S <-> 150 p <-> 111 g <-> 133 A <-> 200   <-> 135  ; Result:  [ 121 45 102 173 81 45 55 161 ]
+18. "M9Z9PHsYX7d1UbKz", Hash=82; Count of replacements:  0 ; Symbols:    ; Result:  [ 77 57 90 57 80 72 115 89 88 55 100 49 85 98 75 122 ]
+19. "f1QAIlZwDjJ6", Hash=82; ReplaceShift: 20; Result: "$6-.,"
+20. "S", Hash=83; Count of replacements:  19 ; Symbols:  z <-> 133 d <-> 171 S <-> 120 H <-> 60 N <-> 239 Y <-> 83 0 <-> 51 4 <-> 181 3 <-> 57 l <-> 196 t <-> 16 G <-> 201 8 <-> 145 9 <-> 18 Z <-> 3 w <-> 116 T <-> 14 q <-> 17 5 <-> 160  ; Result:  [ 120 ]
+21. "D9jFqZ", Hash=84; Count of replacements:  17 ; Symbols:  S <-> 218 6 <-> 160 2 <-> 117 e <-> 195 w <-> 216 V <-> 239 p <-> 74 G <-> 220 F <-> 39 c <-> 105 Y <-> 0 K <-> 27 z <-> 221   <-> 56 Q <-> 222 j <-> 96 f <-> 24  ; Result:  [ 68 57 96 39 113 90 ]
+22. "PyDjrIJV2G", Hash=84; Count of replacements:  19 ; Symbols:  n <-> r J <-> R m <-> L c <-> Y x <-> B d <-> Q g <-> X D <-> q k <-> d 3 <-> 3 p <-> D S <-> T b <-> P u <-> y t <-> b E <-> c Q <-> j P <-> C U <-> Z  ; Result:  CyqjrIRV2G
+23. "EzwqBQTMp6B28TuW", Hash=85; Count of replacements:  18 ; Symbols:  1 <-> N t <-> w V <-> z q <-> V 9 <-> v i <-> j o <-> d e <-> T c <-> J A <-> 1 p <-> u G <-> 3 h <-> g Y <-> S F <-> 5 X <-> W R <-> k f <-> H  ; Result:  EzwVBQTMu6B28TuW
+24. "QkrRV7l4s4YO", Hash=85; Count of replacements:  7 ; Symbols:  X <-> 38 L <-> 29 G <-> 49 t <-> 84 i <-> 125 3 <-> 147 A <-> 139  ; Result:  [ 81 107 114 82 86 55 108 52 115 52 89 79 ]
+25. "lz7DEOhFuDtRUIZ8Fg", Hash=85; Count of replacements:  6 ; Symbols:  h <-> e 1 <-> y R <-> l w <-> 4   <-> I J <-> c  ; Result:  lz7DEOeFuDtlUIZ8Fg
+26. "2XRbYXp0t LzrZczfRB ", Hash=85; Count of replacements:  8 ; Symbols:  t <-> K W <-> i   <-> Y o <-> g e <-> X B <-> f V <-> h q <-> 6  ; Result:  2XRbYXp0KYLzrZczfRfY
+27. "9gVlaIaj4JTZ", Hash=86; Count of replacements:  6 ; Symbols:  G <-> e J <-> i D <-> B Q <-> v 0 <-> 0 V <-> 2  ; Result:  9g2laIaj4iTZ
+28. "18ZVgk5AliUaqT", Hash=86; ReplaceShift: 16; Result: "659:"
+29. "hd7", Hash=86; ReplaceShift: 13; Result: "/"
+30. "S1dzAeIyF", Hash=87; ReplaceShift: 11; Result: ")82= 2$<#"
+31. "qIw 90Whwx", Hash=87; Count of replacements:  12 ; Symbols:  j <-> 85 B <-> 234 z <-> 84 Y <-> 223 T <-> 120 n <-> 42 t <-> 166 r <-> 48 p <-> 183 8 <-> 65 V <-> 68 w <-> 184  ; Result:  [ 113 73 184 32 57 48 87 104 184 120 ]
+32. "Za1KvAjzSxr0EP", Hash=88; Count of replacements:  5 ; Symbols:  2 <-> X T <-> Y x <-> C l <-> p F <-> z  ; Result:  Za1KvAjzSCr0EP
+33. "SIyOoazKpWX40", Hash=88; ReplaceShift: 20; Result: "$'<>/,%"
+34. "IhKaqIRMjvOu4", Hash=90; ReplaceShift: 2; Result: "$&,$4.<"
+35. "ZAdjqRAc", Hash=90; Count of replacements:  7 ; Symbols:  F <-> o I <-> y J <-> N 1 <-> H m <-> F x <-> 1 C <-> f  ; Result:  ZAdjqRAc
+36. "ufcQc7leKC xu", Hash=90; Count of replacements:  8 ; Symbols:  m <-> 72 h <-> 180 5 <-> 103 7 <-> 189 s <-> 92 K <-> 221 G <-> 120 p <-> 115  ; Result:  [ 117 102 99 81 99 189 108 101 221 67 32 120 117 ]
+37. "mrhuWRc Wu2", Hash=91; ReplaceShift: 11; Result: "694:+)1+:"
+38. "ezHSytDmUWnF93vs", Hash=93; Count of replacements:  13 ; Symbols:  0 <-> 9 y <-> y C <-> Y u <-> P 9 <-> z v <-> 0 6 <-> I n <-> m e <-> A i <-> i P <-> E c <-> Z z <-> s  ; Result:  AsHSytDmUWmFz30s
+39. "Y aiuFshk", Hash=93; Count of replacements:  8 ; Symbols:  x <-> 243 S <-> 150 N <-> 98 0 <-> 99 P <-> 209 1 <-> 83 D <-> 17 j <-> 163  ; Result:  [ 89 32 97 105 117 70 115 104 107 ]
+40. "tiPhrMrsHUIA", Hash=93; Count of replacements:  14 ; Symbols:  r <-> q 5 <-> x 8 <-> v G <-> E M <-> k W <-> K s <-> 9 O <-> J U <-> U I <-> t J <-> W F <-> l d <-> o X <-> p  ; Result:  tiPhqkq9HUtA
+41. "UnsuP6", Hash=94; ReplaceShift: 0; Result: "/356"
+42. "vPmBZioAfImTwDq", Hash=94; Count of replacements:  10 ; Symbols:  w <-> 74 B <-> 174 r <-> 133 n <-> 201 c <-> 11 9 <-> 111 I <-> 215 y <-> 17 7 <-> 94 E <-> 207  ; Result:  [ 118 80 109 174 90 105 111 65 102 215 109 84 74 68 113 ]
+43. "dHKsudEpove0frBPNxk", Hash=95; Count of replacements:  16 ; Symbols:  Q <-> 191 Y <-> 21 H <-> 161 8 <-> 233 Z <-> 166 A <-> 238 5 <-> 246 M <-> 1 7 <-> 9 v <-> 159 3 <-> 220 g <-> 173 s <-> 30 y <-> 126 x <-> 14 z <-> 157  ; Result:  [ 100 161 75 30 117 100 69 112 111 159 101 48 102 114 66 80 78 14 107 ]
+44. "JkajlhGb", Hash=96; Count of replacements:  20 ; Symbols:  8 <-> 145 j <-> 141 2 <-> 45 w <-> 160 R <-> 5 K <-> 26 q <-> 186 D <-> 20 A <-> 44 B <-> 52 g <-> 215 1 <-> 201 3 <-> 206 y <-> 38 n <-> 181 5 <-> 71 o <-> 173 k <-> 207 O <-> 92 P <-> 7  ; Result:  [ 74 207 97 141 108 104 71 98 ]
+45. "VxZI8uRvmKpxYjymuwk", Hash=101; Count of replacements:  16 ; Symbols:  k <-> v U <-> o N <-> P l <-> K w <-> m g <-> j s <-> k v <-> d C <-> 3 o <-> W T <-> I D <-> 6 Q <-> Z 1 <-> G W <-> p b <-> M  ; Result:  VxZI8uRdmKpxYjymumv
+46. "CwruiwksJqBzXMhy", Hash=102; Count of replacements:  9 ; Symbols:  m <-> 68 v <-> 12 Z <-> 110 E <-> 243 b <-> 13 P <-> 121 R <-> 32 d <-> 48 j <-> 196  ; Result:  [ 67 119 114 117 105 119 107 115 74 113 66 122 88 77 104 121 ]
+47. "ubZok", Hash=105; ReplaceShift: 18; Result: "5#/+"
+48. "i", Hash=105; ReplaceShift: 17; Result: "4"
+49. "Ntwyar", Hash=108; ReplaceShift: 14; Result: "<'"
+50. "l", Hash=108; Count of replacements:  1 ; Symbols:  r <-> 61  ; Result:  [ 108 ]

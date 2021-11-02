@@ -1,0 +1,13 @@
+There are  4 elements in container
+1. "", Hash=0; Count of replacements:  1 ; Symbols:  z <-> 7  ; Result:  
+2. "a b j sdf e r b x", Hash=75; Count of replacements:  1 ; Symbols:    <-> +  ; Result:  a+b+j+sdf+e+r+b+x
+3. "hello word", Hash=101; Count of replacements:  4 ; Symbols:  e <-> 1 l <-> 2 d <-> 3   <->    ; Result:  h122o wor3
+4. "5.34.5.7.g.s.3", Hash=58; Count of replacements:  1 ; Symbols:  . <->    ; Result:  5 34 5 7 g s 3
+
+-----Straight Insertion-----
+
+There are  4 elements in container
+1. "", Hash=0; Count of replacements:  1 ; Symbols:  z <-> 7  ; Result:  
+2. "5.34.5.7.g.s.3", Hash=58; Count of replacements:  1 ; Symbols:  . <->    ; Result:  5 34 5 7 g s 3
+3. "a b j sdf e r b x", Hash=75; Count of replacements:  1 ; Symbols:    <-> +  ; Result:  a+b+j+sdf+e+r+b+x
+4. "hello word", Hash=101; Count of replacements:  4 ; Symbols:  e <-> 1 l <-> 2 d <-> 3   <->    ; Result:  h122o wor3

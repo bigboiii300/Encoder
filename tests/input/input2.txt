@@ -1,0 +1,4 @@
+3
+2 "CTYGHJKK" 3
+2 "12345" 7
+2 "encryption" 100

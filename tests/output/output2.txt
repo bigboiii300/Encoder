@@ -1,0 +1,11 @@
+There are  3 elements in container
+1. "CTYGHJKK", Hash=76; ReplaceShift: 3; Result: "*8	"
+2. "12345", Hash=51; ReplaceShift: 7; Result: "#%')+"
+3. "encryption", Hash=110; ReplaceShift: 100; Result: ";8<;;"
+
+-----Straight Insertion-----
+
+There are  3 elements in container
+1. "12345", Hash=51; ReplaceShift: 7; Result: "#%')+"
+2. "CTYGHJKK", Hash=76; ReplaceShift: 3; Result: "*8	"
+3. "encryption", Hash=110; ReplaceShift: 100; Result: ";8<;;"

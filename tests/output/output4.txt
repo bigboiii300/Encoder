@@ -1,0 +1,17 @@
+There are  6 elements in container
+1. "", Hash=0; Count of replacements:  3 ; Symbols:  a <-> 1 b <-> 2 c <-> 3  ; Result:  [  ]
+2. "2345", Hash=52; Count of replacements:  3 ; Symbols:  2 <-> 4 4 <-> 9 3 <-> 5  ; Result:  [ 4 5 9 5 ]
+3. "10", Hash=48; Count of replacements:  2 ; Symbols:  1 <-> 0 0 <-> 1  ; Result:  [ 0 1 ]
+4. "ACS+HUmexUrk!", Hash=83; Count of replacements:  3 ; Symbols:  + <->   U <-> o x <-> w  ; Result:  ACS Homework!
+5. "", Hash=0; ReplaceShift: 1; Result: ""
+6. "12345", Hash=51; Count of replacements:  5 ; Symbols:  1 <-> 10 2 <-> 20 3 <-> 30 4 <-> 40 5 <-> 50  ; Result:  [ 10 20 30 40 50 ]
+
+-----Straight Insertion-----
+
+There are  6 elements in container
+1. "", Hash=0; Count of replacements:  3 ; Symbols:  a <-> 1 b <-> 2 c <-> 3  ; Result:  [  ]
+2. "", Hash=0; ReplaceShift: 1; Result: ""
+3. "10", Hash=48; Count of replacements:  2 ; Symbols:  1 <-> 0 0 <-> 1  ; Result:  [ 0 1 ]
+4. "12345", Hash=51; Count of replacements:  5 ; Symbols:  1 <-> 10 2 <-> 20 3 <-> 30 4 <-> 40 5 <-> 50  ; Result:  [ 10 20 30 40 50 ]
+5. "2345", Hash=52; Count of replacements:  3 ; Symbols:  2 <-> 4 4 <-> 9 3 <-> 5  ; Result:  [ 4 5 9 5 ]
+6. "ACS+HUmexUrk!", Hash=83; Count of replacements:  3 ; Symbols:  + <->   U <-> o x <-> w  ; Result:  ACS Homework!

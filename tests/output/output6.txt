@@ -1,0 +1,13 @@
+There are  4 elements in container
+1. "Fpaxutgm", Hash=106; Count of replacements:  6 ; Symbols:  F <-> C p <-> o a <-> m x <-> p m <-> r g <-> e  ; Result:  Computer
+2. "657834", Hash=54; ReplaceShift: 100; Result: "-=<"
+3. "zxc", Hash=114; Count of replacements:  3 ; Symbols:  z <-> 134 x <-> 99 c <-> 66  ; Result:  [ 134 99 66 ]
+4. "9876", Hash=56; Count of replacements:  3 ; Symbols:  9 <-> 1 8 <-> 0 7 <-> 5  ; Result:  [ 1 0 5 54 ]
+
+-----Straight Insertion-----
+
+There are  4 elements in container
+1. "657834", Hash=54; ReplaceShift: 100; Result: "-=<"
+2. "9876", Hash=56; Count of replacements:  3 ; Symbols:  9 <-> 1 8 <-> 0 7 <-> 5  ; Result:  [ 1 0 5 54 ]
+3. "Fpaxutgm", Hash=106; Count of replacements:  6 ; Symbols:  F <-> C p <-> o a <-> m x <-> p m <-> r g <-> e  ; Result:  Computer
+4. "zxc", Hash=114; Count of replacements:  3 ; Symbols:  z <-> 134 x <-> 99 c <-> 66  ; Result:  [ 134 99 66 ]

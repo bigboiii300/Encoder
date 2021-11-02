@@ -1,0 +1,9 @@
+There are  2 elements in container
+1. "QWERTY", Hash=82; Count of replacements:  6 ; Symbols:  Q <-> q W <-> w E <-> e R <-> r T <-> t Y <-> y  ; Result:  qwerty
+2. "abcdefg", Hash=100; ReplaceShift: 100; Result: "8899"
+
+-----Straight Insertion-----
+
+There are  2 elements in container
+1. "QWERTY", Hash=82; Count of replacements:  6 ; Symbols:  Q <-> q W <-> w E <-> e R <-> r T <-> t Y <-> y  ; Result:  qwerty
+2. "abcdefg", Hash=100; ReplaceShift: 100; Result: "8899"
